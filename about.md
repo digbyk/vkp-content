@@ -1,4 +1,4 @@
-*About Us*
+# About U
 
 Finding your perfect home can be both very time consuming, and extremely stressful. But it doesn't have to be.
 
